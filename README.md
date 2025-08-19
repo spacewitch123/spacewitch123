@@ -17,15 +17,14 @@
 ## 🔮 GitHub Constellation Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spacewitch123&show_icons=true&theme=dark&bg_color=0d1117&title_color=bb99ff&icon_color=bb99ff&text_color=ffffff&border_color=30363d&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=spacewitch123&show_icons=true&theme=dark&bg_color=0d1117&title_color=bb99ff&icon_color=bb99ff&text_color=ffffff&border_color=30363d&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacewitch123&layout=compact&theme=dark&bg_color=0d1117&title_color=bb99ff&text_color=ffffff&border_color=30363d&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spacewitch123&theme=dark&background=0d1117&ring=bb99ff&fire=bb99ff&currStreakLabel=bb99ff&hide_border=true" alt="GitHub Streak" width="60%"/>
 </div>
-
-<br/>
 
 ## 🛸 Tech Arsenal
 
