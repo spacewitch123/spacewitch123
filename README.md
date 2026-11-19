@@ -31,9 +31,9 @@ Full-stack developer building web apps end to end — Next.js on the front, Nest
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spacewitch123/spacewitch123/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spacewitch123/spacewitch123/output/snake-light.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/spacewitch123/spacewitch123/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spacewitch123/spacewitch123/output/snake-dark.svg?v=gold"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spacewitch123/spacewitch123/output/snake-light.svg?v=gold"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/spacewitch123/spacewitch123/output/snake-dark.svg?v=gold"/>
 </picture>
 
 <details>
