@@ -18,13 +18,6 @@ Full-stack developer building web apps end to end — Next.js on the front, Nest
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mongodb,git&theme=dark" alt="Tech stack"/>
 </p>
 
-## ✨ Featured Spells
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**TODO**](https://github.com/spacewitch123/TODO) | One sentence on the problem it solves | Next.js · NestJS |
-| [**TODO**](https://github.com/spacewitch123/TODO) | One sentence | React · Postgres |
-| [**TODO**](https://github.com/spacewitch123/TODO) | One sentence | Node · MongoDB |
 
 ## 🔮 GitHub Constellation Stats
 
