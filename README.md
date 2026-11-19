@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Umair Khyam — full-stack developer" width="100%"/>
+<img src="./assets/blackhole.svg" alt="Umair Khyam — full-stack developer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FFC070&center=true&vCenter=true&width=700&lines=Welcome+past+the+event+horizon;Where+magic+meets+modern+development;Dark+matter+turned+to+dark+code;Interstellar+full-stack+wizard" alt="Typing SVG" />
 
